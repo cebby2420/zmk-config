@@ -5,7 +5,7 @@
 #define DEFAULT 0
 #define MACOS   1
 #define FUNCTIONS   2
-#define SETTINGS   2
+#define SETTINGS   3
 
 / {
 	keymap {
